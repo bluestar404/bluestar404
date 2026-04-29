@@ -29,23 +29,28 @@
     <td width="35%" valign="top" style="border-left: 1px solid #d1d5da; padding-left: 10px;">
       <h3 align="center">MARKET SKILLS</h3>
       <div align="left">
-        <b>LANGUAGES</b><br>
-        ![Python](https://img.shields.io/badge/Python-black?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square)
-        <br><br>
-        <b>AI & ORCHESTRATION</b><br>
-        ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square) 
-        ![LangGraph](https://img.shields.io/badge/LangGraph-black?style=flat-square) 
-        ![Gemini](https://img.shields.io/badge/Gemini-black?style=flat-square)
-        <br><br>
-        <b>BACKEND & INFRA</b><br>
-        ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square) 
-        ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square) 
-        ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square)
-        <br><br>
-        <b>DATA SYSTEMS</b><br>
-        ![Postgres](https://img.shields.io/badge/Postgres-black?style=flat-square) 
-        ![FAISS](https://img.shields.io/badge/FAISS-black?style=flat-square)
-      </div>
+
+### MARKET SKILLS
+
+**LANGUAGES**  
+![Python](https://img.shields.io/badge/Python-black?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-black?style=flat-square)
+
+**AI & ORCHESTRATION**  
+![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square)  
+![LangGraph](https://img.shields.io/badge/LangGraph-black?style=flat-square)  
+![Gemini](https://img.shields.io/badge/Gemini-black?style=flat-square)
+
+**BACKEND & INFRA**  
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square)  
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square)  
+![AWS](https://img.shields.io/badge/AWS-black?style=flat-square)
+
+**DATA SYSTEMS**  
+![Postgres](https://img.shields.io/badge/Postgres-black?style=flat-square)  
+![FAISS](https://img.shields.io/badge/FAISS-black?style=flat-square)
+
+</div>
       <hr>
       <h4 align="center">EDITORIAL</h4>
       <p align="justify">
