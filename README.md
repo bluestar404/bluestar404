@@ -1,110 +1,94 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:d8f3dc,100:b7e4c7&height=150&section=header&text=Mayur%20Dhumal&fontSize=48&fontColor=1b4332&fontAlignY=55&desc=AI%20Backend%20Engineer%20·%20LLM%20Systems&descAlignY=78&descColor=2d6a4f&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:d8f3dc,100:b7e4c7&height=140&section=header&text=Mayur+Dhumal&fontSize=48&fontColor=1b4332&fontAlignY=60&animation=fadeIn" />
+
+</div>
+
+```
+// ai backend · llm pipelines · autonomous agents · pune, india
+```
+
+I build things that think.
+
+Specifically: LLM memory systems, autonomous agents, and vector search pipelines — the kind of backend that makes the AI layer actually work. Finishing my CS degree in 2025 and spending most of my time making agents do things they weren't supposed to be able to do.
 
 <br/>
 
-<sub>
-Building systems that think, not just respond.
-</sub>
+---
+
+**what i work with**
+
+`Python` `FastAPI` `PostgreSQL` `Docker` `AWS EC2` `Linux` `Git`
+
+`LangChain` `LangGraph` `FAISS` `Gemini API` `BERT Embeddings` `Vector Databases`
+
+---
+
+**projects**
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**01 · RecallBase**
+```
+fastapi · langchain · faiss
+postgresql · docker
+```
+Vector memory engine for LLMs. Gives models persistent context across sessions. Cut query latency **40%** with optimised FAISS. Microservice design: separated embedding, storage, and retrieval.
+
+</td>
+<td width="33%" valign="top">
+
+**02 · Answer Eval System**
+```
+bert · gemini api · python
+```
+Dual-score grading pipeline. BERT handles semantic similarity via cosine distance, Gemini handles nuance and contextual correctness. Better than either alone — by design.
+
+</td>
+<td width="33%" valign="top">
+
+**03 · NeuroCart**
+```
+langgraph · langchain
+gemini api · fastapi
+```
+Autonomous shopping agent using LangGraph DAG workflows for structured multi-step reasoning. Search → compare → recommend, without hand-holding.
+
+</td>
+</tr>
+</table>
+
+---
+
+**stats**
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=bluestar404&show_icons=true&title_color=1b4332&icon_color=52b788&text_color=2d6a4f&border_color=b7e4c7&bg_color=f4f9f0&hide_border=false&count_private=true&hide_title=true" />
+&nbsp;
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestar404&layout=compact&title_color=1b4332&text_color=2d6a4f&border_color=b7e4c7&bg_color=f4f9f0&hide_title=true" />
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/mayur-dhumal-c">
-  <img src="https://img.shields.io/badge/LinkedIn-2d6a4f?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:mayurdhumal404@gmail.com">
-  <img src="https://img.shields.io/badge/Email-52b788?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/bluestar404">
-  <img src="https://img.shields.io/badge/GitHub-1b4332?style=flat-square&logo=github&logoColor=white" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bluestar404&bg_color=f4f9f0&color=2d6a4f&line=52b788&point=1b4332&area=true&area_color=b7e4c7&hide_border=true&custom_title=contribution+activity" />
 
 </div>
 
 ---
 
-## About
+**elsewhere**
 
-I design and build **LLM-powered systems** — focused on memory, reasoning, and autonomy.
+[![linkedin](https://img.shields.io/badge/linkedin-2d6a4f?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayur-dhumal-c)
+[![gmail](https://img.shields.io/badge/gmail-52b788?style=flat-square&logo=gmail&logoColor=white)](mailto:mayurdhumal404@gmail.com)
+[![github](https://img.shields.io/badge/github-1b4332?style=flat-square&logo=github&logoColor=white)](https://github.com/bluestar404)
+![visitors](https://komarev.com/ghpvc/?username=bluestar404&style=flat-square&color=74c69d&label=visitors)
 
-- AI backend engineering  
-- Agent workflows & orchestration  
-- Vector search + persistent memory  
-
-Currently exploring how to make agents **more reliable, structured, and actually useful**.
-
----
-
-## Stack
-
-**Core**
-
-Python · FastAPI · PostgreSQL · Docker · AWS · Linux
-
-**AI / ML**
-
-LangChain · LangGraph · FAISS · Gemini API · BERT · Vector Databases
-
----
-
-## Selected Work
-
-### RecallBase — Memory Engine for LLMs
-
-A modular system enabling persistent context across sessions.
-
-→ Microservice architecture (embedding / storage / retrieval)  
-→ ~40% faster queries via optimized FAISS search  
-
----
-
-### Automatic Answer Evaluation
-
-Dual-layer scoring:
-
-- BERT → semantic similarity  
-- Gemini → contextual correctness  
-
-More stable than single-model approaches.
-
----
-
-### NeuroCart — Autonomous Shopping Agent
-
-Multi-step agent for search, comparison, and recommendations.
-
-→ Built with LangGraph workflows  
-→ Maintains user context across interactions  
-
----
-
-## Stats
+<br/>
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bluestar404&show_icons=true&theme=default&title_color=1b4332&icon_color=52b788&text_color=2d6a4f&border_color=b7e4c7&bg_color=f0f9f0" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestar404&layout=compact&theme=default&title_color=1b4332&text_color=2d6a4f&border_color=b7e4c7&bg_color=f0f9f0" />
-
+<sub><i>"Those who can imagine anything, can create the impossible." — Alan Turing</i></sub>
 </div>
 
----
-
-## Certifications
-
-- Generative AI with Large Language Models — DeepLearning.AI  
-- Author — NCCC 2025 (Cognitive Computing)  
-- B.E. Computer Engineering — CGPA 7.8  
-
----
-
-<div align="center">
-
-<sub>
-"The best AI systems don’t just answer — they understand."
-</sub>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:b7e4c7,100:d8f3dc&height=60&section=footer" />
