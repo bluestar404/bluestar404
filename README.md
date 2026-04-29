@@ -51,7 +51,7 @@ Vector memory engine for LLMs. Persistent context across sessions. <strong>40% f
 <sub><code>bert · gemini api · python</code></sub>
 <br/><br/>
 Dual-score grading pipeline. BERT for semantic similarity via cosine distance. Gemini for contextual nuance. Better together than either alone.
-<br/><br/>
+<br/><br><br/><br/>
 <img src="https://img.shields.io/badge/context--aware_grading-d8f3dc?style=flat-square&labelColor=2d6a4f&color=d8f3dc"/>
 </td>
 <td width="33%" valign="top">
