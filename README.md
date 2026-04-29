@@ -5,7 +5,9 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D32F2F&center=true&vCenter=true&width=600&lines=BREAKING:+QUERY+LATENCY+REDUCED+BY+40%25;SPECIAL:+AUTONOMOUS+AGENT+WORKFLOWS+LIVE;TECH+REPORT:+LLM+MEMORY+ENGINES+DEPLOYED" alt="The Developer Times Ticker" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D32F2F&center=true&vCenter=true&width=900&lines=BREAKING:+QUERY+LATENCY+REDUCED+BY+40%25;SPECIAL:+AUTONOMOUS+AGENT+WORKFLOWS+LIVE;TECH+REPORT:+LLM+MEMORY+ENGINES+DEPLOYED" alt="The Developer Times Ticker" />
+
+
 
 ---
 
