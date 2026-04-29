@@ -1,61 +1,60 @@
-# Mayur Dhumal
-### AI Backend Developer | LLM Pipelines | Autonomous Agents
+<div align="center">
 
-<p align="left">
+# [cite_start]Mayur Dhumal [cite: 1]
+**AI Backend Developer | LLM Architect | [cite_start]Agentic Systems** 
+
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&width=435&lines=Building+Scalable+AI+Systems;Specializing+in+LangGraph;Expert+in+Vector+Search+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Autonomous+Agent+Architect;Vector+Search+Specialist;LLM+Pipeline+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## Profile Summary
-[cite_start]AI Backend Developer specializing in the design and implementation of **LLM pipelines, autonomous agents, and vector search systems**[cite: 4]. [cite_start]Experienced in building scalable, agentic architectures using **FastAPI, LangChain, and LangGraph**[cite: 5, 6].
+### [cite_start]🛠 Core Technical Stack [cite: 7]
+
+[cite_start]**Backend & AI Orchestration** [cite: 9]
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+[cite_start]![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) [cite: 11]
+
+[cite_start]**Data & Vector Intelligence** [cite: 10]
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vector DB](https://img.shields.io/badge/FAISS-Vector%20Search-blue?style=for-the-badge)
+[cite_start]![AWS](https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) [cite: 11]
 
 ---
 
-## Technical Expertise
+### 🚀 Featured Engineering Projects
 
-| Category | Technologies |
+| Project | Key Innovation |
 | :--- | :--- |
-| **Languages** | [cite_start]Python, SQL [cite: 8] |
-| **AI & ML** | [cite_start]LangChain, LangGraph, BERT Embeddings, Gemini API, Prompt Engineering [cite: 9] |
-| **Databases** | [cite_start]PostgreSQL, Vector Databases (FAISS), Semantic Search [cite: 10] |
-| **Backend & DevOps** | [cite_start]FastAPI, REST API, Microservices, Docker, AWS (EC2), Git, Linux [cite: 9, 11] |
+| [cite_start]**RecallBase** [cite: 13] | [cite_start]Developed a vector-based memory engine for LLMs using **FAISS**, reducing query latency by **40%**[cite: 15, 17]. |
+| [cite_start]**NeuroCart** [cite: 25] | [cite_start]Built an autonomous shopping agent using **LangGraph DAGs** for complex multi-step reasoning[cite: 27, 28]. |
+| [cite_start]**AI Evaluation** [cite: 20] | [cite_start]Engineered a dual-scoring system combining **BERT embeddings** with **Gemini API** for semantic grading[cite: 22]. |
 
 ---
 
-## Featured Projects
+### 📊 Engineering Activity
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bluestar404&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-### RecallBase | Vector Memory Engine
-* [cite_start]Developed a **vector-based memory system** for LLM persistent context storage[cite: 15].
-* [cite_start]Optimized latency by 40% using **FAISS** for similarity-based retrieval.
-* [cite_start]Architected using a **microservices-oriented design** with Docker containerization[cite: 18, 19].
-
-### NeuroCart | Autonomous Shopping Agent
-* [cite_start]Engineered an autonomous agent for **multi-step product search and recommendation**[cite: 27].
-* [cite_start]Utilized **LangGraph DAG workflows** for complex, structured multi-step reasoning.
-* [cite_start]Integrated **Gemini API** for intent parsing and context-aware response handling[cite: 29].
-
-### Automatic Answer Evaluation System
-* [cite_start]Built a **dual-scoring system** combining BERT embeddings and Gemini API for grading[cite: 22].
-* [cite_start]Implemented **cosine similarity** to measure semantic relevance against reference data[cite: 23].
-* [cite_start]Combined adjusted similarity metrics for highly reliable context-aware scoring[cite: 24].
-
----
-
-## GitHub Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bluestar404&show_icons=true&theme=radical&hide_border=true" alt="Mayur's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestar404&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestar404&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## Contact & Professional Links
-* [cite_start]**Location:** Pune, India 
-* [cite_start]**Email:** mayurdhumal404@gmail.com 
-* [cite_start]**LinkedIn:** [linkedin.com/in/mayur-dhumal-c](https://linkedin.com/in/mayur-dhumal-c) 
-* **Education:** B.E. in Computer Engineering | [cite_start]NBN Sinhgad Technical Institute Campus [cite: 32, 33]
+### 🎓 Professional Background
+* **Education:** B.E. in Computer Engineering | [cite_start]CGPA 7.8 [cite: 33, 37]
+* **Certification:** Generative AI with LLMs (DeepLearning.AI) [cite: 35]
+* [cite_start]**Research:** Author at the 5th National Conference on Cognitive Computing (2025) [cite: 38, 39]
 
 ---
+
+### 🔗 Connect With Me
+[cite_start][LinkedIn](https://linkedin/mayur-dhumal-c) • [Portfolio/GitHub](https://github/bluestar404) • [Email](mailto:mayurdhumal404@gmail.com) [cite: 2]
+
+</div>
