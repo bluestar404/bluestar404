@@ -1,76 +1,84 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4332,50:2d6a4f,100:52b788&height=180&section=header&text=hey,%20i%27m%20mayur%20%F0%9F%91%8B&fontSize=40&fontColor=d8f3dc&fontAlignY=38&desc=AI%20Backend%20%C2%B7%20LLM%20Pipelines%20%C2%B7%20Autonomous%20Agents%20%C2%B7%20Pune,%20India&descAlignY=58&descColor=95d5b2&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:d8f3dc,100:b7e4c7&height=140&section=header&text=Mayur+Dhumal&fontSize=48&fontColor=1b4332&fontAlignY=60&animation=fadeIn" />
-
-</div>
+<br/>
 
 ```
-// ai backend · llm pipelines · autonomous agents · pune, india
+// i build things that think.
+// llm memory · autonomous agents · vector search · fastapi · langchain
 ```
 
-I build things that think.
+<br/>
 
-Specifically: LLM memory systems, autonomous agents, and vector search pipelines — the kind of backend that makes the AI layer actually work. Finishing my CS degree in 2025 and spending most of my time making agents do things they weren't supposed to be able to do.
+> Finishing my CS degree in 2025. Spending most of my time making agents do things
+> they weren't supposed to be able to do. Based in Pune, open to work.
 
 <br/>
 
 ---
 
-**what i work with**
+### tech stack
 
-`Python` `FastAPI` `PostgreSQL` `Docker` `AWS EC2` `Linux` `Git`
+<div align="center">
 
-`LangChain` `LangGraph` `FAISS` `Gemini API` `BERT Embeddings` `Vector Databases`
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,linux,aws&theme=light&perline=7" />
+
+<br/><br/>
+
+| | |
+|:---:|:---:|
+| ![LangChain](https://img.shields.io/badge/LangChain-1b4332?style=for-the-badge&logo=langchain&logoColor=d8f3dc) | ![LangGraph](https://img.shields.io/badge/LangGraph-2d6a4f?style=for-the-badge&logoColor=d8f3dc) |
+| ![FAISS](https://img.shields.io/badge/FAISS-52b788?style=for-the-badge&logoColor=fff) | ![Gemini API](https://img.shields.io/badge/Gemini_API-74c69d?style=for-the-badge&logo=google&logoColor=1b4332) |
+| ![BERT](https://img.shields.io/badge/BERT_Embeddings-95d5b2?style=for-the-badge&logoColor=1b4332) | ![Vector DB](https://img.shields.io/badge/Vector_Databases-b7e4c7?style=for-the-badge&logoColor=1b4332) |
+
+</div>
 
 ---
 
-**projects**
+### projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
-
-**01 · RecallBase**
-```
-fastapi · langchain · faiss
-postgresql · docker
-```
-Vector memory engine for LLMs. Gives models persistent context across sessions. Cut query latency **40%** with optimised FAISS. Microservice design: separated embedding, storage, and retrieval.
-
+<h4>RecallBase</h4>
+<sub><code>fastapi · langchain · faiss · postgresql · docker</code></sub>
+<br/><br/>
+Vector memory engine for LLMs. Persistent context across sessions. <strong>40% faster</strong> queries via FAISS. Microservice design — embedding, storage and retrieval fully separated.
+<br/><br/>
+<img src="https://img.shields.io/badge/40%25_faster_queries-d8f3dc?style=flat-square&labelColor=1b4332&color=d8f3dc"/>
 </td>
 <td width="33%" valign="top">
-
-**02 · Answer Eval System**
-```
-bert · gemini api · python
-```
-Dual-score grading pipeline. BERT handles semantic similarity via cosine distance, Gemini handles nuance and contextual correctness. Better than either alone — by design.
-
+<h4>Answer Eval System</h4>
+<sub><code>bert · gemini api · python</code></sub>
+<br/><br/>
+Dual-score grading pipeline. BERT for semantic similarity via cosine distance. Gemini for contextual nuance. Better together than either alone.
+<br/><br/>
+<img src="https://img.shields.io/badge/context--aware_grading-d8f3dc?style=flat-square&labelColor=2d6a4f&color=d8f3dc"/>
 </td>
 <td width="33%" valign="top">
-
-**03 · NeuroCart**
-```
-langgraph · langchain
-gemini api · fastapi
-```
-Autonomous shopping agent using LangGraph DAG workflows for structured multi-step reasoning. Search → compare → recommend, without hand-holding.
-
+<h4>NeuroCart</h4>
+<sub><code>langgraph · langchain · gemini · fastapi</code></sub>
+<br/><br/>
+Autonomous shopping agent. LangGraph DAG workflows for structured multi-step reasoning. Search → compare → recommend, without hand-holding. Session-aware.
+<br/><br/>
+<img src="https://img.shields.io/badge/agentic_AI-d8f3dc?style=flat-square&labelColor=52b788&color=d8f3dc"/>
 </td>
 </tr>
 </table>
 
 ---
 
-**stats**
+### github stats
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=bluestar404&show_icons=true&title_color=1b4332&icon_color=52b788&text_color=2d6a4f&border_color=b7e4c7&bg_color=f4f9f0&hide_border=false&count_private=true&hide_title=true" />
-&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestar404&layout=compact&title_color=1b4332&text_color=2d6a4f&border_color=b7e4c7&bg_color=f4f9f0&hide_title=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bluestar404&show_icons=true&title_color=52b788&icon_color=52b788&text_color=2d6a4f&border_color=b7e4c7&bg_color=f4f9f0&count_private=true&hide_title=true&hide_border=false"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestar404&layout=compact&title_color=52b788&text_color=2d6a4f&border_color=b7e4c7&bg_color=f4f9f0&hide_title=true"/>
 
-<br/><br/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bluestar404&border=b7e4c7&background=f4f9f0&ring=2d6a4f&fire=52b788&currStreakLabel=2d6a4f&sideNums=2d6a4f&sideLabels=74c69d&dates=95d5b2" />
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bluestar404&bg_color=f4f9f0&color=2d6a4f&line=52b788&point=1b4332&area=true&area_color=b7e4c7&hide_border=true&custom_title=contribution+activity" />
 
@@ -78,17 +86,21 @@ Autonomous shopping agent using LangGraph DAG workflows for structured multi-ste
 
 ---
 
-**elsewhere**
-
-[![linkedin](https://img.shields.io/badge/linkedin-2d6a4f?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayur-dhumal-c)
-[![gmail](https://img.shields.io/badge/gmail-52b788?style=flat-square&logo=gmail&logoColor=white)](mailto:mayurdhumal404@gmail.com)
-[![github](https://img.shields.io/badge/github-1b4332?style=flat-square&logo=github&logoColor=white)](https://github.com/bluestar404)
-![visitors](https://komarev.com/ghpvc/?username=bluestar404&style=flat-square&color=74c69d&label=visitors)
-
-<br/>
+### find me
 
 <div align="center">
-<sub><i>"Those who can imagine anything, can create the impossible." — Alan Turing</i></sub>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1b4332?style=for-the-badge&logo=linkedin&logoColor=d8f3dc)](https://linkedin.com/in/mayur-dhumal-c)
+[![Gmail](https://img.shields.io/badge/Gmail-2d6a4f?style=for-the-badge&logo=gmail&logoColor=d8f3dc)](mailto:mayurdhumal404@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-52b788?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/bluestar404)
+![Visitors](https://komarev.com/ghpvc/?username=bluestar404&style=for-the-badge&color=74c69d&label=VISITORS)
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:b7e4c7,100:d8f3dc&height=60&section=footer" />
+---
+
+<div align="center">
+  <sub><i>"Those who can imagine anything, can create the impossible." — Alan Turing</i></sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:52b788,50:2d6a4f,100:1b4332&height=100&section=footer" width="100%"/>
