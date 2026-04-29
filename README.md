@@ -43,7 +43,7 @@
 <sub><code>fastapi · langchain · faiss · postgresql · docker</code></sub>
 <br/><br/>
 Vector memory engine for LLMs. Persistent context across sessions. <strong>40% faster</strong> queries via FAISS. Microservice design — embedding, storage and retrieval fully separated.
-<br/><br/>
+<br/><br><br/><br/>
 <img src="https://img.shields.io/badge/40%25_faster_queries-d8f3dc?style=flat-square&labelColor=1b4332&color=d8f3dc"/>
 </td>
 <td width="33%" valign="top">
@@ -59,7 +59,7 @@ Dual-score grading pipeline. BERT for semantic similarity via cosine distance. G
 <sub><code>langgraph · langchain · gemini · fastapi</code></sub>
 <br/><br/>
 Autonomous shopping agent. LangGraph DAG workflows for structured multi-step reasoning. Search → compare → recommend, without hand-holding. Session-aware.
-<br/><br/>
+<br/><br><br/><br/>
 <img src="https://img.shields.io/badge/agentic_AI-d8f3dc?style=flat-square&labelColor=52b788&color=d8f3dc"/>
 </td>
 </tr>
