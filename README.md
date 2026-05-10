@@ -1,64 +1,66 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Mayur;AI+Engineer" alt="Typing SVG" />
+</p>
 
-  <!-- Animated Waving Header with Twinkling effect -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=MAYUR%20DHUMAL&fontSize=45&fontAlignY=35&desc=AI%20Infrastructure%20%7C%20Agentic%20Systems%20%7C%20LLM%20Memory&descSize=14&descAlignY=55&animation=twinkling" />
+<p align="center">
+  <samp>
+    I am an <b>AI Engineer</b> based in <em>Pune, India</em>. 🐈‍⬛<br/>
+    A developer obsessed with theoretical computer science <br/>
+    and building intelligent systems. 🧠<br/>
+    I strongly believe that <em>"Machines remember what humans forget."</em> 🤖
+  </samp>
+</p>
 
-  <br><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayur-dhumal-c/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50" style="margin: 0 10px;" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/bluestar404">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" style="margin: 0 10px;" alt="GitHub" />
+  </a>
+  <a href="mailto:mayurdhumal404@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50" style="margin: 0 10px;" alt="Email" />
+  </a>
+</p>
 
-  <!-- Animated Typing Text focusing on smooth transitions -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=Building+persistent+memory+backends+for+LLMs;Orchestrating+graph-driven+autonomous+agents;Designing+semantic+retrieval+systems;Researching+machine+memory+and+latency" alt="Typing SVG" />
+<br/>
 
-  <br><br>
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" align="right" width="22%" alt="Coding Cat Animation"/>
 
-  <!-- Animated Location Pin -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="20" height="20" /> 
-  <span style="color: #888888; font-family: sans-serif; font-size: 14px;"><b>Pune, India</b></span>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="30px" /> I’m currently building ...
+- **LLM to 3D movement** — converting LLM outputs into 3D visual actions. 🐾
 
-</div>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" width="30px" /> I’m contributing to ...
+- **Open-source projects** — actively learning and collaborating with the community. 😸
 
-<br>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20with%20Wry%20Smile.png" width="30px" /> I’m researching ...
+- **Advanced AI** ecosystems and modern **UI/UX design**. 🙀
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/White%20Medium%20Star.png" alt="Star" width="15" height="15" />
-</div>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30px" /> Ask me about ...
+- **Vector Databases**, **Agentic Systems**, or reducing LLM latency 🌐
 
----
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="30px" /> Fun fact ...
+- I rely on excessive amounts of **music** to make machines smarter. 🎧🐱
 
-### ❖ CORE ARCHITECTURES
+<br/>
 
-| ◱ `recall-base` | ◲ `neurocart` | ◳ `answer-eval` |
-| :--- | :--- | :--- |
-| **Persistent Memory Layer** | **Agentic Workflow Engine** | **Semantic Eval Pipeline** |
-| Vector indexing backend optimized for sub-100ms retrieval latency and long-term memory persistence. | Graph-driven architecture for autonomous product comparison and multi-step deal evaluation. | BERT embeddings + LLM reasoning to measure contextual meaning instead of keyword overlap. |
-| *Status: Background Orchestration* | *Status: Active Trajectories* | *Status: Parallel Evaluation* |
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="30px" /> Tools and Frameworks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,docker,postgres,git,linux,bash&theme=dark&perline=7" alt="Skills" />
+  </a>
+</p>
 
-<br>
+<br/>
 
-### ❖ TECHNICAL FOUNDATION
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px" /> Some stats
 
-<div align="center">
-  <br>
-  <!-- Animated Gear Icon -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="30" height="30" />
-  <br><br>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bluestar404&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Mayur's GitHub Stats" width="48%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestar404&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+<br><br><br><br><br><br><br><br><br>
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Vector_Databases-05122A?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_Agents-FF9900?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
-
-<br>
-
----
-
-<div align="center">
-  <br>
-  <i>"Machines remember what humans forget."</i>
-  <br><br>
-  <!-- Animated Robot Icon -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="35" height="35" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bluestar404&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
