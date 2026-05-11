@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Schedule daily updates at midnight
   schedule: [{cron: "0 0 * * *"}]
-  # Allow manual runs
   workflow_dispatch:
-  # Run when you push to the main branch
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -13,19 +10,19 @@ jobs:
     permissions:
       contents: write
     steps:
-      # STAT 1: The 3D Isometric Calendar
-      - name: 3D Isometric Calendar
+      # STAT 1: Achievements (Unlocks as you use GitHub)
+      - name: Achievements
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.svg
+          filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          config_timezone: Asia/Kolkata
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X # Shows all unlocked achievements
 
-      # STAT 2: Detailed Languages & Habits
-      - name: Languages and Habits
+      # STAT 2: Coding Habits (When and how you code)
+      - name: Coding Habits
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.svg
@@ -36,6 +33,4 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_languages: yes
-          plugin_languages_details: percentage
           config_timezone: Asia/Kolkata
