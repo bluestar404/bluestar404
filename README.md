@@ -33,7 +33,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" width="30px" /> I’m contributing to ...
 - **Open-source projects** — actively learning and collaborating with the community. 😸
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20with%20Wry%20Smile.png" width="30px" /> I’m researching ...
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="30px" /> I’m researching ...
 - **Advanced AI** ecosystems and modern **UI/UX design**. 🙀
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30px" /> Ask me about ...
@@ -56,8 +56,8 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px" /> Some stats
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bluestar404&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Mayur's GitHub Stats" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestar404&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bluestar404&show_icons=true&theme=tokyonight&hide_border=true" alt="Mayur's GitHub Stats" width="48%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bluestar404&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 <br><br><br><br><br><br><br><br><br>
 
