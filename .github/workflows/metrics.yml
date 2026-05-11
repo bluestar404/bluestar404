@@ -10,16 +10,16 @@ jobs:
     permissions:
       contents: write
     steps:
-      # STAT 1: Achievements (Unlocks as you use GitHub)
+     # STAT 1: Achievements (Stable Configuration)
       - name: Achievements
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          template: classic
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: X # Shows all unlocked achievements
 
       # STAT 2: Coding Habits (When and how you code)
       - name: Coding Habits
