@@ -52,21 +52,6 @@
 </p>
 <br><br><br><br><br><br><br><br><br>
 
-<p align="center">
-  <img src="metrics.plugin.habits.svg" alt="Coding Habits" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bluestar404&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px" /> Some stats
-
-<p align="center">
-  <img align="left" src="metrics.plugin.isocalendar.svg" alt="3D Calendar" width="48%" />
-  <img align="right" src="metrics.plugin.habits.svg" alt="Habits and Languages" width="48%" />
-</p>
-<br><br><br><br><br><br><br><br><br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bluestar404&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
