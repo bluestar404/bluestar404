@@ -56,8 +56,8 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px" /> Some stats
 
 <p align="center">
-  <img align="left" src="https://streak-stats.demolab.com?user=bluestar404&theme=tokyonight&hide_border=true" alt="Mayur's GitHub Streak" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bluestar404&theme=tokyonight&layout=compact&hide_border=true&cache_seconds=86400" alt="Top Languages" width="48%" />
+  <img align="left" src="metrics.plugin.isocalendar.svg" alt="3D Calendar" width="48%" />
+  <img align="right" src="metrics.plugin.habits.svg" alt="Habits and Languages" width="48%" />
 </p>
 <br><br><br><br><br><br><br><br><br>
 
