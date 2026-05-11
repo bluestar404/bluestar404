@@ -44,14 +44,21 @@
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="30px" /> Tools and Frameworks
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px" /> Some stats
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,docker,postgres,git,linux,bash&theme=dark&perline=7" alt="Skills" />
-  </a>
+  <img align="left" src="https://streak-stats.demolab.com?user=bluestar404&theme=tokyonight&hide_border=true" alt="Mayur's GitHub Streak" width="48%" />
+  <img align="right" src="metrics.plugin.achievements.svg" alt="GitHub Achievements" width="48%" />
+</p>
+<br><br><br><br><br><br><br><br><br>
+
+<p align="center">
+  <img src="metrics.plugin.habits.svg" alt="Coding Habits" width="80%" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bluestar404&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px" /> Some stats
 
