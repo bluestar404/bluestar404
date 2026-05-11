@@ -10,19 +10,20 @@ jobs:
     permissions:
       contents: write
     steps:
-      # STAT 1: Achievements (Compact & Stable)
+     # STAT 1: Achievements (Strictly matching official documentation)
       - name: Achievements
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: bluestar404
-          base: "" # Only the achievements
-          template: classic
+          base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: C # Starts at 'C' rank to be safe
-          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: X
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
 
       # STAT 2: Coding Habits
       - name: Habits
