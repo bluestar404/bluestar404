@@ -48,10 +48,10 @@
 
 <p align="center">
   <!-- Streak Stats -->
-  <img align="left" src="https://streak-stats.demolab.com?user=bluestar404&theme=tokyonight&hide_border=true" alt="Mayur's GitHub Streak" width="48%" />
+  <img align="left" src="https://streak-stats.demolab.com?user=bluestar404&theme=tokyonight&hide_border=true" alt="Mayur's GitHub Streak" width="42%" />
   
   <!-- GitHub Trophies -->
-  <img align="right" src="https://github-profile-trophy.vercel.app/?username=bluestar404&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=4&margin-w=15" alt="GitHub Trophies" width="48%" />
+  <img align="right" src="https://github-profile-trophy.vercel.app/?username=bluestar404&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=4&margin-w=15" alt="GitHub Trophies" width="42%" />
 </p>
 
 <br><br><br><br><br><br><br><br><br>
