@@ -64,5 +64,9 @@
 <br>
 
 <p align="center">
+  <img src="./assets/stars.gif" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=bluestar404&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
